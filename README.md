@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img-c.udemycdn.com/course/750x422/2811567_554f_5.jpg" alt="Sayed's Banner" width="100%" />
+  <img src="https://i.ibb.co/Y7CT1BWt/971.jpg" alt="Sayed's Banner" width="100%" />
 </p>
 <h1 align="center">Assalamulaikum 👋, I'm Abu Sayed Sohag</h1>
 <h3 align="">I'm a Computer Science student at Rangpur Polytechnic Institute with a strong passion for web development and creating innovative digital solutions. Currently, I'm diving into various technologies and sharpening my skills in full-stack development to bring impactful projects to life. Here are some of the projects and activities I’m currently involved in:</h3>
