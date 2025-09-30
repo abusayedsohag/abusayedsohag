@@ -9,11 +9,11 @@
   <li>Developing a career counseling platform with React, Firebase, and Express.js to help users navigate educational and professional paths.</li>
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abusayedsohag&label=Profile%20views&color=0e75b6&style=flat" alt="abusayedsohag" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abusayedsohag&label=Profile%20views&color=0e75b6&style=flat" alt="abusayedsohagislam" /> </p>
 
 - 🌱 I’m currently learning **Programming Hero**
 - 📫 How to reach me: **abusayedsohagislam25@gmail.com**
-- 📄 Know about my experiences: [Resume PDF](resumelink)
+- 📄 Know about my experiences: [Resume PDF](https://github.com/abusayedsohag/abusayedsohag/blob/main/AbuSayed_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,13 +67,13 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayedsohag&show_icons=true&locale=en&layout=compact" alt="abusayedsohag" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayedsohag&show_icons=true&locale=en&layout=compact" alt="abusayedsohagislam" />
 </p>
 
 <p>;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abusayedsohag&show_icons=true&locale=en" alt="abusayedsohag" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abusayedsohag&show_icons=true&locale=en" alt="abusayedsohagislam" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusayedsohag&" alt="harunbd80" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusayedsohag&" alt="abusayedsohagislam" /></p>
 
 <!-- Banner -->
